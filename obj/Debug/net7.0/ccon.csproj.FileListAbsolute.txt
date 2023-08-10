@@ -1,0 +1,15 @@
+C:\Users\rdmil\projects\c#\ccon\bin\Debug\net7.0\ccon.exe
+C:\Users\rdmil\projects\c#\ccon\bin\Debug\net7.0\ccon.deps.json
+C:\Users\rdmil\projects\c#\ccon\bin\Debug\net7.0\ccon.runtimeconfig.json
+C:\Users\rdmil\projects\c#\ccon\bin\Debug\net7.0\ccon.dll
+C:\Users\rdmil\projects\c#\ccon\bin\Debug\net7.0\ccon.pdb
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.csproj.AssemblyReference.cache
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.AssemblyInfoInputs.cache
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.AssemblyInfo.cs
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.csproj.CoreCompileInputs.cache
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.dll
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\refint\ccon.dll
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.pdb
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ccon.genruntimeconfig.cache
+C:\Users\rdmil\projects\c#\ccon\obj\Debug\net7.0\ref\ccon.dll
