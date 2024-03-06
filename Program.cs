@@ -12,6 +12,18 @@ var peeps = new List<Person>() {
     new Person() {
         Name = "Ted",
         Age = 39,
+    },
+    new Person() {
+        Name = "Big McLargeHuge",
+        Age = 42
+    },
+    new Person() {
+        Name = "Mitchell",
+        Age = 58
+    },
+    new Person() {
+        Name = "Joe Don Baker",
+        Age = 58
     }
 };
 
