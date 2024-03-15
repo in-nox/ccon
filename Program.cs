@@ -70,7 +70,7 @@ var peeps = new List<Person>() {
 var ryan = peeps.FirstOrDefault(p => p.Name == "Ryan");
 
 if(ryan == null)
-    Console.WriteLine("No ryans");
+    Console.WriteLine("No ryans allowed!");
 
 
 ryan.Name = "Ted";
